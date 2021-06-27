@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191336998465",
+    "project_id": "snowcone-28c0c",
+    "storage_bucket": "snowcone-28c0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191336998465:android:d4447696a1540cd93208c0",
+        "android_client_info": {
+          "package_name": "com.intern.snowcone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191336998465-divcfnl0h44ch547rt1rlsp2659hrr6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDVif43NUuAJZb0wcHN7EvdbMkTIEVOaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191336998465-divcfnl0h44ch547rt1rlsp2659hrr6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
